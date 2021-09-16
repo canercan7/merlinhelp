@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "text": "Merlin IpPbx",
+      "items": [
+        {
+          "text": "Login Page",
+          "path": "loginpage.md"
+        },
+        {
+          "text": "Forgot Password",
+          "path": "forgotpassword.md"
+        },
+        {
+          "text": "Home Page",
+          "path": "Startup-Templates/WPF.md"
+        },
+        {
+          "text": "Dashboard",
+          "items": [
+            {
+               "text": "ACD",
+               "path": "dashboard-acd.md"
+            },
+            {
+               "text": "Log Trace",
+               "path": "logtrace.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
