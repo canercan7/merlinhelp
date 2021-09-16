@@ -6,27 +6,6 @@
         {
           "text": "Login Ekranı",
           "path": "loginpage.md"
-        },
-        {
-          "text": "Şifremi Unuttom",
-          "path": "forgotpassword.md"
-        },
-        {
-          "text": "Anasayfa",
-          "path": "Startup-Templates/WPF.md"
-        },
-        {
-          "text": "Anlık İzleme",
-          "items": [
-            {
-               "text": "ACD",
-               "path": "dashboard-acd.md"
-            },
-            {
-               "text": "Log İzleme",
-               "path": "logtrace.md"
-            }
-          ]
         }
       ]
     }
