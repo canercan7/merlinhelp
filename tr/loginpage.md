@@ -21,10 +21,9 @@
 <div>&nbsp;</div>
 </td>
 </tr>
-<tr>
-<td style="width: 514px; vertical-align: top;" colspan="2"><img src="../../fenixLogin.png" alt="" width="936" height="458"></td>
-</tr>
+
 </tbody>
 </table>
 <p>&nbsp;</p>
     
+ ![alt text](https://merlinyazilim.com.tr/Files/fenixLogin.png)
